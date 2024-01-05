@@ -3,7 +3,7 @@ diccionario = {"España":"Madrid", "Francia":"Paris", "Italia":"Roma", "Portugal
 print(diccionario["Italia"])      #Muestra el valor asociado a la clave Italia
 
 diccionario["Alemania"]="Belanga" #Agregar new elementos
-diccionario["Alemania"]="Belin"   #No puede haber dos claves = en el mismo diccionario el valor se sobreescribe 
+diccionario["Alemania"]="Berlin"   #No puede haber dos claves = en el mismo diccionario el valor se sobreescribe 
 
 del diccionario["Francia"]        #Eliminar
 print(diccionario);

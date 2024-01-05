@@ -16,6 +16,6 @@ while True:
         #se pueden concatenear tratamientos de errores, si no se especifica el tipo de error, entonces es generico
     
     finally:
-        print(".")  #lo que se encuenter dwentro del finally se ejecutara simpre
+        print(".")  #lo que se encuentra dentro del finally se ejecutara siempre
 
 print(divide(num1,num2))
